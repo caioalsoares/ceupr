@@ -1,9 +1,10 @@
-#CEUPR website
+# CEUPR website
 
-##Sobre
+## Sobre
+
 Site feito como sugestão de website para a Casa do Estudante do Paraná.
 
-##Uso
+## Uso
 
 Use o gerenciador de pacote (npm)[https://docs.npmjs.com/] para instalar os pacotes usados no projeto.
 

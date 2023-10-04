@@ -17,3 +17,7 @@ Execute para rodar o projeto
 ```bash
 npm start
 ```
+
+## Arquivos
+
+[Figma](https://www.figma.com/file/vx5yTVh4L5qQT3Dlb3bPgr/CEUPR?type=design&mode=design&t=TizPUujcvNSL4rq1-1)
